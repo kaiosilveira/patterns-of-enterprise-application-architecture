@@ -8,6 +8,8 @@ This repository contains the working implementation of the patterns described in
 
 Base patterns are commonly used approaches to well-known problems, such as creating objects that are only meant to carry certain values ([value objects](https://github.com/kaiosilveira/poeaa-base-patterns)), setting up a [Registry](https://github.com/kaiosilveira/poeaa-registry/tree/main) to keep track of in-memory instances or even simply configuring a `Money` class.
 
-- [Value Object](https://github.com/kaiosilveira/poeaa-value-object): A small simple object, like money or a date range, whose equality isn’t based on identity
-- [Registry](https://github.com/kaiosilveira/poeaa-registry): A well-known object that other objects can use to find common objects and services.
-- [Special Case](https://github.com/kaiosilveira/poeaa-special-case): A subclass that provides special behavior for particular cases.
+| Pattern                                                            | Description                                                                               |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| [Value Object](https://github.com/kaiosilveira/poeaa-value-object) | A small simple object, like money or a date range, whose equality isn’t based on identity |
+| [Registry](https://github.com/kaiosilveira/poeaa-registry)         | A well-known object that other objects can use to find common objects and services.       |
+| [Special Case](https://github.com/kaiosilveira/poeaa-special-case) | A subclass that provides special behavior for particular cases.                           |
