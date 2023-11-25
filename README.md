@@ -1,4 +1,6 @@
-🚧 **This repository is a work in progress and was just started. Keep an eye on its [Roadmap](https://github.com/users/kaiosilveira/projects/5/views/1) for an overview of how it's progressing!** 🚧
+🚧 **This repository is a work in progress. Keep an eye on its [Roadmap](https://github.com/users/kaiosilveira/projects/5/views/1) to check how it's progressing!** 🚧
+
+---
 
 # Patterns of Enterprise Application Architecture
 
