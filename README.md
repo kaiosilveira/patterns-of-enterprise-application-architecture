@@ -16,3 +16,4 @@ Base patterns are commonly used approaches to well-known problems, such as creat
 | [Registry](https://github.com/kaiosilveira/poeaa-registry)         | A well-known object that other objects can use to find common objects and services        |
 | [Special Case](https://github.com/kaiosilveira/poeaa-special-case) | A subclass that provides special behavior for particular cases                            |
 | [Money](https://github.com/kaiosilveira/poeaa-money)               | Represents a monetary value                                                               |
+| [Service Stub](https://github.com/kaiosilveira/poeaa-service-stub) | Removes dependence upon problematic services during testing.                              |
